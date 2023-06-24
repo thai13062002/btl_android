@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:right="0dip">
+        <shape android:shape="rectangle">
+            <solid android:color="#ffffff"/>
+        </shape>
+    </item>
+
+    <item
+        android:left="140dip">
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#1fa2ff"
+                android:centerColor="#12d8fa"
+                android:endColor="#a6ffcb"
+                android:type="linear" />
+<!--            <solid android:color="@color/columnColor"/>-->
+        </shape>
+    </item>
+
+    <item
+        android:left="180dip"
+        android:right="220dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#ffffff"/>
+        </shape>
+    </item>
+
+    <item
+        android:left="230dip"
+        android:right="170dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#ffffff"/>
+        </shape>
+    </item>
+
+    <item
+        android:left="280dip"
+        android:right="120dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#ffffff"/>
+        </shape>
+    </item>
+
+    <item
+        android:left="330dip"
+        android:right="70dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#ffffff"/>
+        </shape>
+    </item>
+
+    <item
+        android:left="380dip"
+        android:right="20dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#ffffff"/>
+        </shape>
+    </item>
+
+    <item
+        android:left="430dip"
+        android:right="8dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#ffffff"/>
+        </shape>
+    </item>
+
+<!--    <item-->
+<!--        android:left="190dip">-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <gradient-->
+<!--                android:startColor="#EAC026"-->
+<!--                android:endColor="#88EE22"-->
+<!--                android:type="linear" />-->
+<!--&lt;!&ndash;            <solid android:color="@color/columnColor"/>&ndash;&gt;-->
+<!--        </shape>-->
+<!--    </item>-->
+
+<!--    <item-->
+<!--        android:left="230dip">-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <solid android:color="#ffffff"/>-->
+<!--        </shape>-->
+<!--    </item>-->
+
+<!--    <item-->
+<!--        android:left="240dip">-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <gradient-->
+<!--                android:startColor="#88EE22"-->
+<!--                android:endColor="#1AEA7D"-->
+<!--                android:type="linear" />-->
+<!--&lt;!&ndash;            <solid android:color="@color/columnColor"/>&ndash;&gt;-->
+<!--        </shape>-->
+<!--    </item>-->
+
+<!--    <item-->
+<!--        android:left="280dip">-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <solid android:color="#ffffff"/>-->
+<!--        </shape>-->
+<!--    </item>-->
+
+<!--    <item-->
+<!--        android:left="290dip">-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <gradient-->
+<!--                android:startColor="#1AEA7D"-->
+<!--                android:endColor="#1A87EA"-->
+<!--                android:type="linear" />-->
+<!--&lt;!&ndash;            <solid android:color="@color/columnColor"/>&ndash;&gt;-->
+<!--        </shape>-->
+<!--    </item>-->
+
+<!--    <item-->
+<!--        android:left="330dip">-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <solid android:color="#ffffff"/>-->
+<!--        </shape>-->
+<!--    </item>-->
+
+<!--    <item-->
+<!--        android:left="340dip">-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <gradient-->
+<!--                android:startColor="#1A87EA"-->
+<!--                android:endColor="#A019EB"-->
+<!--                android:type="linear" />-->
+<!--&lt;!&ndash;            <solid android:color="@color/columnColor"/>&ndash;&gt;-->
+<!--        </shape>-->
+<!--    </item>-->
+
+<!--    <item-->
+<!--        android:left="380dip">-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <solid android:color="#ffffff"/>-->
+<!--        </shape>-->
+<!--    </item>-->
+
+<!--    <item-->
+<!--        android:left="390dp"-->
+<!--        android:right="8dp">-->
+<!--        <shape android:shape="rectangle">-->
+<!--            <gradient-->
+<!--                android:startColor="#A019EB"-->
+<!--                android:endColor="#E91BBD"-->
+<!--                android:type="linear" />-->
+<!--&lt;!&ndash;            <solid android:color="@color/columnColor"/>&ndash;&gt;-->
+<!--        </shape>-->
+<!--    </item>-->
+
+</layer-list>

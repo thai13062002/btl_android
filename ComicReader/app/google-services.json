@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979299220275",
+    "firebase_url": "https://comicreader-35bf1-default-rtdb.firebaseio.com",
+    "project_id": "comicreader-35bf1",
+    "storage_bucket": "comicreader-35bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979299220275:android:be695e7e114d9be133dc46",
+        "android_client_info": {
+          "package_name": "com.son.comicreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979299220275-3thcsoa7ttpikbtvpudckeuj98gsol8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3yg877xP9ZLr8UM-SR3se4Sw9WnQKA2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979299220275-3thcsoa7ttpikbtvpudckeuj98gsol8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
